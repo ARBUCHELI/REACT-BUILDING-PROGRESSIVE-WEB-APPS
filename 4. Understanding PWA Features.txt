@@ -1,0 +1,38 @@
+4. Understanding PWA Features
+-----------------------------
+
+* Understanding the PWA Manifest
+--------------------------------
+
+{} manifest.json
+
+Located in the public folder of the project.  The {} manifest.json file is a really important file for making a progressive web app. It contains all sorts of metadata about the
+application.
+
+If you open in dev tools, the application panel, you'll find a tab called Manifest.  
+
+The Manifest will contain all of the json data for the app.
+
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
+In our example, we found some issues related to the icons.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
