@@ -1,0 +1,7 @@
+2. Setup: Create React App
+--------------------------
+
+* Using create-react-app
+------------------------
+create-react-app is a progressive web app generator.
+
