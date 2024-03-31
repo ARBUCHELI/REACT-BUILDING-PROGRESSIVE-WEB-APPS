@@ -15,3 +15,17 @@ A PWA is an application that's like a mobile website and a mobile app all in one
 
 * Why PWAs?
 -----------
+53% of users will abandon a site if it takes longer than three seconds to load.
+
+. Install on a home screen
+. Work reliable over varying networks
+. Improve conversions
+
+* Benefits
+----------
+. Platform agnostic
+. No app store, less storage space
+. Build with JavaScript, HTML, and CSS
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
