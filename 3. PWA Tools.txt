@@ -10,7 +10,7 @@ The tool provides information about performance, accessibility, and progresive w
 
 https://www.airbnb.ru/
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Lighthouse metrics
 --------------------
@@ -20,7 +20,21 @@ RUN THE LIGHTHOUSE TOOLS ONLY WHEN YOU ARE IN GUEST MODE OR INCOGNITO MODE.
 
 SOMETIMES THE EXTENSIONS OR YOUR BROWSER SETTINGS CAN INTERFERE WITH GOOD AUDIT OF YOUR CONTENT.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Register the service worker
+-----------------------------
+A service worker is a script that your browser runs in the background to perform various tasks.
 
+. Catching resources.
+. Handling network requests.
+. Storing content for offline use.
+
+if you serve the build folder.
+
+Open up the Application tab and you'll see the service workers.
+
+serviceWorker.js comes when building with create-react-app, but not all the time.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
