@@ -1,0 +1,45 @@
+# INTRODUCTION
+--------------
+
+* Build a resilient progressive web app with React
+--------------------------------------------------
+Apps --> Faster and more performant for our users.
+
+     --> We want our users to be engaged.
+
+* Progressive Web Apps
+----------------------
+A way to use the technologies of the web to build apps that feel like native applications.
+
+Examples:
+---------
+	. The Washington Post
+	. Twitter
+	. Pinterest
+
+Progressive Web Apps increase engagement and reduce data use.
+
+* What is a Progressive Web App?
+--------------------------------
+	. Web Browser
+	. Native Application
+	. Built for the web, acts like a native app
+	. Works regardless of the browser choice
+	. Responsive
+
+53% of users will abandon a site if it takes longer than three seconds to load.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* What you should know
+----------------------
+JavaScript
+	JavaScript Essential Training
+
+React
+	React.js Essential Training
+
+npm
+	Node.js Essential Training
+
+
