@@ -12,3 +12,15 @@ https://www.airbnb.ru/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Lighthouse metrics
+--------------------
+YOU CAN STILL RUN YOUR APP ON localhost:3000 TO MAKE AN AUDIT ON YOUR OWN APP.
+
+RUN THE LIGHTHOUSE TOOLS ONLY WHEN YOU ARE IN GUEST MODE OR INCOGNITO MODE.
+
+SOMETIMES THE EXTENSIONS OR YOUR BROWSER SETTINGS CAN INTERFERE WITH GOOD AUDIT OF YOUR CONTENT.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
