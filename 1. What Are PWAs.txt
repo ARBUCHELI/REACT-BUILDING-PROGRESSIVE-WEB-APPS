@@ -29,3 +29,12 @@ A PWA is an application that's like a mobile website and a mobile app all in one
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Using the PWA checklist
+-------------------------
+. The site must be served over HTTPS --> We need to be sure that we implement HTTPS with the security certificate.
+. Pages are responsive on tablets and mobile devices.
+. Metadata is provided for the home screen.
+. First load fast even on 3G.
+. Even on the slowest network something has to be loaded within three seconds.
+. Site works cross browser.
+. Each page has an URL.
