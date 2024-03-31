@@ -36,5 +36,48 @@ Open up the Application tab and you'll see the service workers.
 
 serviceWorker.js comes when building with create-react-app, but not all the time.
 
+With this option you'll create an app with a server worker, when using npx create-react-app
+
+npx create-react-app my-app --template cra-template-pwa
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Going Offline
+---------------
+Check the offline checkbox for going offline.
+
+If you are loading a lot of dynamic data in your application, you probably can't get away with serving all of your assets statically like in this example. But this is an option.  If there
+is a resource that has to be loaded even when offline, this is a good option.
+
+You can connect once, you can cache the asset, and then that video will be available on subsequent offline reloads.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
