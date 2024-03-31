@@ -119,6 +119,21 @@ export default App;
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Install serve
+---------------
+In order to really work with a progressive Web App, we are going to need to run builds.  We are going to have to run our files through a production process, in order
+to kind of test what's going on.
+
+Then we need to serve up, that build folder, on a specific local host port.  
+
+A NICE PACKAGE WE CAN USE TO FACILITATE WHAT, IS A PACKAGE CALLED serve.
+
+$ npm install -g serve --> THIS PACKAGE WILL ALLOW ME TO SET UP A LIGHTWEIGHT SERVER ON MY MACHINE, SO THAT I CAN SERVE UP ALL OF THE FILES THAT HAVE BEEN BUILT.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
