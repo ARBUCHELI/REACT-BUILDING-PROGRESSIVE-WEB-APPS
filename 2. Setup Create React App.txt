@@ -128,12 +128,28 @@ Then we need to serve up, that build folder, on a specific local host port.
 
 A NICE PACKAGE WE CAN USE TO FACILITATE WHAT, IS A PACKAGE CALLED serve.
 
+$ npm install -g serve
+
 $ npm install -g serve --> THIS PACKAGE WILL ALLOW ME TO SET UP A LIGHTWEIGHT SERVER ON MY MACHINE, SO THAT I CAN SERVE UP ALL OF THE FILES THAT HAVE BEEN BUILT.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Run a build
+-------------
+$ npm run build
 
+$ npm run build --> THIS IS GOING TO BUNDLE REACT IN PRODUCTION MODE, AND IT'S GOING TO OPTIMIZE THE BUILD FOR THE BEST PERFORMANCE.
 
+$ serve -s build
+
+$ serve -s build --> FOR SERVING THE APP WITH THE SERVER THAT COMES INSTALLED WITH THE serve PACKAGE.
+
+YOU WILL SEE THIS MESSAGE IN THE DEVELOPMENT TOOLS:
+
+This page is using the production build of React. ✅
+Open the developer tools, and "Components" and "Profiler" tabs will appear to the right.
+
+A build FOLDER WILL APPEAR IN THE CODE OF THE APP.
 
 
 
