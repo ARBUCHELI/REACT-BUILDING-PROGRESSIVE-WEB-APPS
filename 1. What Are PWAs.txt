@@ -1,2 +1,17 @@
 1. What Are PWAs?
 -----------------
+
+* What is a Progressive Web App?
+--------------------------------
+A PWA is an application that's like a mobile website and a mobile app all in one.
+
+. Web browser
+. Native application
+. Built for the web, acts like a native app
+. Works regardless of the browser choice
+. Responsive
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Why PWAs?
+-----------
