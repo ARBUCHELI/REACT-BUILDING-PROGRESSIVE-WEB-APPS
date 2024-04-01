@@ -173,6 +173,16 @@ Open the app in your phone using the network address given by serve -s build, an
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Deploy on Netlify
+-------------------
+An error related to PWA like this:
+
+Can be corrected by simply deploying the application on a service like Netlify.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
