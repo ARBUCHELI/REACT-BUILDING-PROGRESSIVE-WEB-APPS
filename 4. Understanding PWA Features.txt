@@ -165,6 +165,14 @@ For this example, click, Install Art Videos for Fun and Learning...
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Add PWA to iOS
+----------------
+For iOS, it's necessary to create a link for the icon.
+
+Open the app in your phone using the network address given by serve -s build, and then use the share icon option, and then select add to home screen.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
